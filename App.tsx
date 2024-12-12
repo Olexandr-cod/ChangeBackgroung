@@ -5,6 +5,6 @@ const App = () => {
   return (
     <HomeScreen />
   );
-}
+};
 
 export default App;

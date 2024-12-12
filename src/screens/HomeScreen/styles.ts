@@ -1,17 +1,17 @@
-import { StyleSheet } from "react-native";
+import { StyleSheet } from 'react-native';
 
 export const cs = StyleSheet.create({
     textStyle: {
         fontSize: 24,
         fontWeight: 'bold',
-        color: '#000'
+        color: '#000',
     },
     colorContainer: {
         backgroundColor: '#fff',
         margin: 20,
         padding: 8,
         borderRadius: 8,
-        opacity: 0.7
+        opacity: 0.7,
     },
     textBackgroundColor: {
         fontSize: 16,
@@ -21,5 +21,5 @@ export const cs = StyleSheet.create({
         fontSize: 16,
         fontWeight: 'bold',
         color: '#333',
-    }
-})
+    },
+});
